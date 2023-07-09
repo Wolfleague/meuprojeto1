@@ -1,0 +1,49 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+
+}
+
+#hero {
+    width: 592;
+    margin: 0 auto 72px;
+
+}
+
+#hero img {
+    margin-bottom: 72px;
+}
+
+#balls {
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+}
+
+h1 {
+    font-family: 'Inter', sans-serif;
+    line-height: 56px;
+    font-size: 49px;
+    text-align: center;
+}
+
+span {
+    font-weight: bold;
+}
+
+span, a {
+    color: #FF9900;
+}
+
+p {
+    color: #7D7987;
+    text-align: center;
+    font-size: 14px;
+    line-height: 28px;
+}
+
+a + a {
+    margin-left: 28px;
+}
+
+  
